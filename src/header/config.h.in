@@ -1,0 +1,2 @@
+#define faradars_001_VERSION_MAJOR @faradars_001_VERSION_MAJOR@
+#define faradars_001_VERSION_MINOR @faradars_001_VERSION_MINOR@
