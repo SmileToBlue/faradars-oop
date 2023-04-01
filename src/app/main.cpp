@@ -5,7 +5,7 @@ class [[maybe_unused]] Mariam {
 private:
     int x;
 public:
-    int
+
 
 };
 
